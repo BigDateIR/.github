@@ -37,7 +37,10 @@ Elasticsearch: For data storage and indexing.
 Leaflet.js: For interactive map visualization.
 TextBlob/Spark NLP: For sentiment analysis.
 
-
+---
+Trello Link
+#https://trello.com/invite/b/6759dfb03158c1e0ee340f45/ATTI1a96dc0efce6c5e2177cf3053ef15555902E2E0E/twitter-streaming-project-bd-ir
+---
 ## Setup Instructions
 
 ### 1. Start Kafka and Zookeeper
