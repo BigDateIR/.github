@@ -72,7 +72,18 @@ This guide provides step-by-step instructions to set up Kafka, Zookeeper, a stre
   - **Elasticsearch and Kibana**
 
 ---
-
+### Final Result
+you can see the complete result without running the code by doning the following steps
+1. edit the docker compuse file to put the path of the elasticsearch_data & Kibana_data in volume in the approprate  path
+2. naviagte to docsdata directory
+3. run the docker command:
+   ```bash
+    docker-compose -f docker-compose.yml up -d
+   ```
+4.- **Kibana**: Open [http://localhost:5601](http://localhost:5601) in your browser.
+ 
+ 
+---
 ## Links
 - **Kibana**: [http://localhost:5601](http://localhost:5601)
 - **Elasticsearch**: [http://localhost:9200](http://localhost:9200)
