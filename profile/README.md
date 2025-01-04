@@ -40,10 +40,12 @@ TextBlob/Spark NLP: For sentiment analysis.
 ![project figure](https://github.com/user-attachments/assets/d9d5e5b1-d68e-40e0-8b47-34c06b153841)
 
 ---
-Trello Link
-#https://trello.com/invite/b/6759dfb03158c1e0ee340f45/ATTI1a96dc0efce6c5e2177cf3053ef15555902E2E0E/twitter-streaming-project-bd-ir
+##Trello Link:
+ https://trello.com/invite/b/6759dfb03158c1e0ee340f45/ATTI1a96dc0efce6c5e2177cf3053ef15555902E2E0E/twitter-streaming-project-bd-ir
 ---
 ## Setup Instructions
+
+## Note: Each repository have the needed librarys to install
 
 ### 1. Start Kafka and Zookeeper
 1. **Start Zookeeper**:
