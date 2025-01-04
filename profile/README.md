@@ -21,7 +21,7 @@ This guide provides step-by-step instructions to set up Kafka, Zookeeper, a stre
 3. **Create Kafka Topics**:
    - Create the required topics:
      ```bash
-     kafka-topics.bat --create --topic test2 --bootstrap-server localhost:9092
+     kafka-topics.bat --create --topic produced_data --bootstrap-server localhost:9092
      kafka-topics.bat --create --topic send_consumer_data --bootstrap-server localhost:9092
      ```
 
